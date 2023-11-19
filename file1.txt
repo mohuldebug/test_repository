@@ -1,3 +1,5 @@
-This is not .... file1.
+This edit done from branch2
+
+hello good morning
 
 edit done from branch1
